@@ -369,7 +369,7 @@ img {
 
 
 .banner-area{
-    background-image: url(../images/home/home-bg-1.jpg); /*--edit image--*/
+    background-image: url(/images/home/fabistra-bg-1.jpg); /*--edit image--*/
     background-position: center;
     background-size:cover;
     position: relative;
